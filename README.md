@@ -13,6 +13,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlewis234&theme=dark" alt="brandonlewis234's github contributions" /></p>
 </div>
-
-<h3>Support:</h3>
-<p><a href="https://ko-fi.com/234tangomango" target="_blank" rel="noopener noreferrer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/234tangomango" /></a></p><br><br>

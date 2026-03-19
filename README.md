@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon </h1>
 <h3 align="center">A motivated and passionate Software Developer</h3>
 
-- 🔭 I’m currently working on [understanding Java and Hytale plugins](https://github.com/BrandonLewis234/Hytale-Example-Plugin)
+<!-- - 🔭 I’m currently working on [understanding Java and Hytale plugins](https://github.com/BrandonLewis234/Hytale-Example-Plugin) -->
 
 - 🌱 I’m currently learning **Java, .NET, React**
 

@@ -11,7 +11,7 @@
 
 <br>
 <div>
-<p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brandonlewis234&show_icons=true&locale=en&layout=compact&theme=dark" alt="brandonlewis234's most used languages" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlewis234&theme=dark" alt="brandonlewis234's github contributions" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlewis234&theme=dark" alt="brandonlewis234's github contributions" /></p>
+<p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brandonlewis234&show_icons=true&locale=en&layout=compact&theme=dark" alt="brandonlewis234's most used languages" /></p>
 </div>

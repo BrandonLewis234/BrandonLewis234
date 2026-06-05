@@ -7,8 +7,6 @@
 
 [![Languages and Tools](https://skillicons.dev/icons?i=blender,cs,cpp,cloudflare,codepen,css,dotnet,figma,github,gtk,html,java,js,jquery,mysql,notion,php,powershell,py,react,sqlite,unity,unreal,wordpress&perline=12)](https://skillicons.dev)
 
-<br>
-
 <div>
 <h3 align="bottom">Other Creative Endeavors:</h3>
   

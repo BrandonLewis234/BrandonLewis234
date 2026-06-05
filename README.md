@@ -10,9 +10,9 @@
 <div>
 <h3 align="bottom">Other Creative Endeavors:</h3>
   
-[CurseForge Mods](https://www.curseforge.com/members/tango234mango/projects)
-<br>
 [Steam Workshop Creations](https://steamcommunity.com/id/Tango234Mango/myworkshopfiles)
+<br>
+[CurseForge Mods](https://www.curseforge.com/members/tango234mango/projects)
 </div>
 
 <br>

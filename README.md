@@ -19,7 +19,7 @@
 
 <div>
 
-[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brandonlewis234?cardType=level&theme=maroongold&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brandonlewis234?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brandonlewis234&show_icons=true&locale=en&layout=compact&theme=dark" alt="brandonlewis234's most used languages" />
 
 </div>

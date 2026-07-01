@@ -18,6 +18,8 @@
 <br>
 
 <div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlewis234&theme=dark" alt="brandonlewis234's github contributions" /></p>
-<p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brandonlewis234&show_icons=true&locale=en&layout=compact&theme=dark" alt="brandonlewis234's most used languages" /></p>
+
+[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brandonlewis234?cardType=level&theme=maroongold&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brandonlewis234&show_icons=true&locale=en&layout=compact&theme=dark" alt="brandonlewis234's most used languages" />
+
 </div>

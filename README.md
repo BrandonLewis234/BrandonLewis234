@@ -11,10 +11,11 @@
 <h3 align="bottom">Other Creative Endeavors:</h3>
   
 [CurseForge Mods](https://www.curseforge.com/members/tango234mango/projects)
-</div>
-
 <br>
-
+[Steam Workshop Creations](https://steamcommunity.com/id/Tango234Mango/myworkshopfiles)
+<br>
+</div>
+<br>
 <div>
 
 [![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brandonlewis234?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)

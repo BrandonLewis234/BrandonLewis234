@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon </h1>
 <h3 align="center">A motivated and passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Java, .NET, React**
+- 🌱 I’m currently learning **.NET, React**
   
 <h3 align="left">Languages and Tools:</h3>
 
